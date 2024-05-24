@@ -19,4 +19,4 @@ function ItemCard ({name, imgCat}:Cat) {
         </div>
     );
 }
-export default ItemCard;
+export default ItemCard

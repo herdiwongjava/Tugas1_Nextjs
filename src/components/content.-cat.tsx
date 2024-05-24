@@ -25,4 +25,4 @@ function ContentCat() {
   );
 }
 
-export default ContentCat;
+export default ContentCat

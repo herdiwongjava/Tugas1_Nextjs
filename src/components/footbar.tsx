@@ -7,4 +7,4 @@ function FooterBar() {
     );
 }
 
-export default FooterBar;
+export default FooterBar
